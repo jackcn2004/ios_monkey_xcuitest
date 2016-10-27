@@ -2,7 +2,6 @@
 //  ____UITests.swift
 //
 //  Created by wangshuai on 16/10/17.
-//  Copyright © 2016年 Bytedance. All rights reserved.
 //  pic 路径 /Users/ur_CP_name/Library/Developer/Xcode/DerivedData/Packagename-(随机）faandoxqjzseredzyubkxdrbayia/Logs/Test/Attachments
 //  instruments -s devices  get devices name
 //run: 
