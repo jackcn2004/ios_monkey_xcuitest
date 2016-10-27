@@ -28,7 +28,7 @@ class ____UITests: XCTestCase {
         super.tearDown()
     }
 //    we can use the method to running the script for durationcase
-    //    func testChaosHandlingForDuration() {
+    //    func testForDuration() {
     //        // Create a loop for the given time limit
     //        let end = NSDate(timeIntervalSinceNow: duration)
     //        while NSDate().compare(end as Date) == ComparisonResult.orderedAscending {
@@ -37,7 +37,7 @@ class ____UITests: XCTestCase {
     //        }
     //    }
     
-    func testChaosHandlingUntilGestureLimit() {
+    func testUntilGestureLimit() {
         // Loop for as many times as the gesture limit allows
         for _ in 0..<gestureLimit {
             executeRandomGesture()
